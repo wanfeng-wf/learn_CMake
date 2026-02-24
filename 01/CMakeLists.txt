@@ -1,3 +1,6 @@
+# 导出编译命令数据库（可选）
+set(CMAKE_EXPORT_COMPILE_COMMANDS ON)
+
 # 1. 指定 CMake 的最低版本要求
 cmake_minimum_required(VERSION 3.10)
 
